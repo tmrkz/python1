@@ -17,3 +17,4 @@ print('Белый:',"\r\n",whitepower.power,whitepower.health,whitepower.stamina
 print('черный:',"\r\n",blackpower.power,blackpower.health,blackpower.stamina)
 whitepower.info()
 blackpower.info()
+l=0
